@@ -1,6 +1,8 @@
-# **简易版：完整搭建 Hugo + PaperMod 我的思路**
+# **完整搭建 Hugo + PaperMod 全流程**
 
-下载资源：[hugo-PaperMod ](https://github.com/adityatelange/hugo-PaperMod) 
+> 该流程已经过笔者 Arles 验证跑通，文章篇幅较长，但**实际配置非常简单**，建议当成字典，**主要看“GitHub Pages 部署核心思路”部分**。
+
+下载资源：[hugo-PaperMod ](https://github.com/adityatelange/hugo-PaperMod)  
 
 ## GitHub Pages 部署核心思路
 
