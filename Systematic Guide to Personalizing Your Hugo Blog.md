@@ -42,39 +42,182 @@ myblog/
 
 ### ① 修改站点名称、副标题、社交链接等基本信息
 
-### 👉 打开并编辑你的 `config.toml`
+### 👉 打开并编辑 `config.yaml`
 
-```toml
-baseURL = "http://example.org/"
-languageCode = "zh-cn"
-title = "Arles Zhang 的技术博客"
-theme = "PaperMod"
+```YAML
+baseURL: "https://ArlesZhang.github.io/"
+languageCode: "zh-cn"
+title: "Arles Zhang 的技术博客"
+theme: hugo-PaperMod
+copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 
-[params]
-  author = "Arles Zhang"
-  description = "AI 编译器 / 系统方向的成长日志"
-  keywords = ["Hugo", "Blog", "PaperMod", "AI 编译器"]
-  defaultTheme = "auto"  # auto/light/dark
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
 
-  # 头像设置（你可以替换 static/images/avatar.jpg）
-  profileMode = true
-  profileModeParams = {
-    enabled = true,
-    title = "欢迎来到我的博客",
-    subtitle = "记录 | 分享 | 成长",
-    imageUrl = "images/avatar.jpg",
-    imageTitle = "头像",
-    buttons = [
-      {name = "博客文章", url = "/posts"},
-      {name = "GitHub", url = "https://github.com/你的GitHub用户名"}
-    ]
-  }
+minify:
+  disableXML: true
 
-  # 社交图标
-  socialIcons = [
-    { name = "github", url = "https://github.com/你的GitHub用户名" },
-    { name = "email", url = "mailto:your@email.com" }
-  ]
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: WiKi
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+
+  fr:
+    languageName: ":fr:"
+    weight: 2
+    title: PaperModL2
+    taxonomies:
+      category: FRcategories
+      tag: FRtags
+      series: FRseries
+    menu:
+      main:
+        - name: Archive
+          url: archives/
+          weight: 5
+        - name: FRTags
+          url: frtags
+          weight: 10
+        - name: FRCategories
+          url: frcategories
+          weight: 10
+        - name: FRSeries
+          url: frseries
+          weight: 10
+        - name: NullLink
+          url: "#"
+    params:
+      languageAltTitle: French
+      profileMode:
+        enabled: true
+        title: PaperMod
+        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageTitle: ProfileMode image
+        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        buttons:
+          - name: Blog
+            url: posts
+          - name: Profile Mode
+            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+
+  fa:
+    languagedirection: rtl
+    weight: 3
+    title: PaperMod RTL
+    taxonomies:
+      category: FAcategories
+      tag: FAtags
+      series: FAseries
+    menu:
+      main:
+        - name: FATags
+          url: fatags
+          weight: 10
+    params:
+      homeInfoParams:
+        Title: "Hi there 👋"
+        Content: Welcome to RTL layout
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  author: "Arles Zhang"
+  description: "AI 编译器 / 系统方向的成长日志"
+  keywords: ["Hugo", "Blog", "PaperMod", "AI 编译器"]
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  images: ["images/papermod-cover.png"]
+
+  profileMode:
+    enabled: true
+    title: "欢迎来到我的博客"
+    subtitle: "记录 | 分享 | 成长"
+    imageUrl: "images/avatar.jpg"
+    imageTitle: "头像"
+    buttons:
+      - name: 博客文章
+        url: "/posts"
+      - name: GitHub
+        url: "https://github.com/ArlesZhang"
+
+  homeInfoParams:
+    Title: "欢迎来到 Arles Zhang 的博客"
+    Content: >
+      👋 这里记录我在 AI、编译器、系统方向的成长与思考  
+      🧠 技术沉淀 | 🔬 知识拓展 | 📘 持续输出  
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/ArlesZhang"
+    - name: email
+      url: "mailto:arles3427616237@gmail.com"
+    - name: medium
+      url: "https://medium.com/@arles3427616237"
+    - name: zhihu
+      url: "https://www.zhihu.com/people/zhang-zhi-hua-20-95"
+
+  editPost:
+    URL: "https://github.com/ArlesZhang/ArlesZhang.github.io/tree/main/content"
+    Text: "建议修改"
+    appendFilePath: true
+
+  assets:
+    disableHLJS: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+services:
+  instagram:
+    disableInlineCSS: true
+  x:
+    disableInlineCSS: true
+
 
 ```
 
