@@ -328,7 +328,7 @@ draft: false
 你可以在博客目录下运行：
 
 ```bash
-hugo -D
+hugo server -D
 
 ```
 
