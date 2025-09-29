@@ -4,7 +4,7 @@
 > 像对待濒危物种那样珍视自己的每一天。
 
 专注 自律 社交 | 得救之道尽在其中                                 
-Focus. Self-discipline. Creativity. The path to redemption lies within.
+Focus. Self-discipline. Sociality. The path to redemption lies within.
 
 保持这种带着痛感的清醒，你的修道院墙壁终将刻满「**Memento Mori**」（记住你终将死亡）——而这恰恰会让你活得比谁都炽热。
 
