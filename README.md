@@ -1,4 +1,4 @@
-# Areles-s-Business-Thinking
+# Areles-Business-Thinking
 
 > Remember:You will eventually die                                  
 > 像对待濒危物种那样珍视自己的每一天                                     
