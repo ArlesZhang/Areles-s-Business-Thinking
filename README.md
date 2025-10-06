@@ -21,4 +21,4 @@ Focus. Self-discipline. Sociality. The path to redemption lies within.
 - **时间焦虑是好事。** 它提醒你不要浪费生命，而不是让你恐惧。
 
 How to do things
-> 成事不需要掌握所有细节                      
+> You don't need to know all the details to succeed                     
