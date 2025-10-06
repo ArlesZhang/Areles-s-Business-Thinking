@@ -6,7 +6,7 @@
 
 专注 自律 社交 | 得救之道尽在其中                                 
 Focus. Self-discipline. Sociality. The path to redemption lies within.                    
-> 解决问题 | 创造价值 | 建立同盟 
+> 解决问题 | 创造价值 | 建立同盟                         
 
 保持这种带着痛感的清醒，我的修道院墙壁终将刻满「**Memento Mori**」（记住你终将死亡）——而这恰恰会让你活得比谁都炽热。
 
@@ -19,3 +19,6 @@ Focus. Self-discipline. Sociality. The path to redemption lies within.
 - **现在的不被重视，只是暂时的。** 你在积累真正的能力，而能力最终会变成你的底气。
 - **孤独感是强者的常态。** 真正想往上走的人，都会经历一段“独自修炼”的时期。
 - **时间焦虑是好事。** 它提醒你不要浪费生命，而不是让你恐惧。
+
+How to do things
+> 成事不需要掌握所有细节                      
