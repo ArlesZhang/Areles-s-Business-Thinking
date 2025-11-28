@@ -166,7 +166,7 @@ How Trip.com monetizes globally**
 
 ---
 
-# Putting It All Together
+## Putting It All Together
 
 Trip.com’s core business revenue is generated through：
 
