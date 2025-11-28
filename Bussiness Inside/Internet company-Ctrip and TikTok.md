@@ -3,11 +3,11 @@ This document’ll map the revenue → monetization model → who pays → why i
 
 ---
 
-# ✅ 1. Accommodation Booking Revenue （酒店预订）
+# 1. Accommodation Booking Revenue （酒店预订）
 
 How Trip.com makes money from hotels**
 
-### **💰 Revenue models used**
+### **Revenue models used**
 
 Trip.com uses **three monetization mechanisms** in hotel bookings:
 
@@ -53,14 +53,14 @@ Trip.com uses **three monetization mechanisms** in hotel bookings:
 
 ---
 
-# 🎯 Accommodation Revenue Summary
+# Accommodation Revenue Summary
 
 Trip.com earns money mainly from **hotel commissions +广告+价差**。
 毛利和规模都很大，也是 8.047B 的来源。
 
 ---
 
-# ✅ **2. Transportation Ticketing Revenue（交通票务）
+# 2. Transportation Ticketing Revenue（交通票务）
 
 How Trip.com earns money on flights & trains**
 
@@ -68,7 +68,7 @@ How Trip.com earns money on flights & trains**
 
 ---
 
-## ✈️ **A. Air Tickets（机票）**
+## **A. Air Tickets（机票）**
 
 ### Trip.com 主要通过以下方式赚钱：
 
@@ -99,7 +99,7 @@ GDS 会给 OTA **返佣**（每张几美元）。
 
 ---
 
-## 🚄 **B. Train Tickets（火车票）**
+## **B. Train Tickets（火车票）**
 
 中国的火车票利润极低，但 Trip.com 仍能赚钱：
 
@@ -119,7 +119,7 @@ GDS 会给 OTA **返佣**（每张几美元）。
 
 ---
 
-## 🚗 **C. Other transport（租车、用车、机场接送）**
+## **C. Other transport（租车、用车、机场接送）**
 
 通过：
 
@@ -129,7 +129,7 @@ GDS 会给 OTA **返佣**（每张几美元）。
 
 ---
 
-# 🎯 Transportation Revenue Summary
+# Transportation Revenue Summary
 
 Trip.com earns money through a combination of：
 
@@ -143,7 +143,7 @@ Trip.com earns money through a combination of：
 
 ---
 
-# ✅ 3. International OTA Platform（国际业务）
+# 3. International OTA Platform（国际业务）
 
 How Trip.com monetizes globally**
 
@@ -166,7 +166,7 @@ How Trip.com monetizes globally**
 
 ---
 
-# ⭐ Putting It All Together
+# Putting It All Together
 
 Trip.com’s core business revenue is generated through：
 
@@ -186,7 +186,7 @@ This combination creates:
 
 ---
 
-# 🥇 **1. “淘宝的闪降攻击美团”是什么意思？**
+# **1. “淘宝的闪降攻击美团”是什么意思？**
 
 After Taobao's flash sale attack on Meituan, the biggest beneficiary was Ctrip. The capital market immediately realized that Ctrip had the deepest moat! Of course, the biggest actual beneficiary was Douyin.
 //How to understand this sentence?
@@ -224,7 +224,7 @@ After Taobao's flash sale attack on Meituan, the biggest beneficiary was Ctrip. 
 
 ---
 
-## ✨ **（1）携程掌握的是“供给端深资源”而不是“前端流量”**
+## **（1）携程掌握的是“供给端深资源”而不是“前端流量”**
 
 美团的商家（线下餐饮、本地生活）高度分散，
 抖音、淘宝都能拉着这些商家入驻、做补贴，把美团打痛。
@@ -256,7 +256,7 @@ After Taobao's flash sale attack on Meituan, the biggest beneficiary was Ctrip. 
 
 ---
 
-## ✨ **（2）美团被打，说明“流量护城河”是脆弱的**
+## **（2）美团被打，说明“流量护城河”是脆弱的**
 
 价格战证明：
 
@@ -273,7 +273,7 @@ After Taobao's flash sale attack on Meituan, the biggest beneficiary was Ctrip. 
 
 ---
 
-## ✨ **（3）携程不需要补贴，就能拿到高利润**
+## **（3）携程不需要补贴，就能拿到高利润**
 
 酒店 + 机票的 **佣金模式天然盈利**，不靠补贴跑量。
 而美团、淘宝、抖音在本地生活大战必须“烧钱换市场”。
@@ -291,14 +291,14 @@ After Taobao's flash sale attack on Meituan, the biggest beneficiary was Ctrip. 
 
 ---
 
-# 🥉 **3. 为什么“最大的实际受益者是抖音”？**
+# **3. 为什么“最大的实际受益者是抖音”？**
 
 虽然资本看的是护城河，
 但真正抢到 **短期流量与商家** 的，是抖音。
 
 ---
 
-## ✨ **（1）商家被迫多平台投放**
+## **（1）商家被迫多平台投放**
 
 淘宝攻美团 → 美团必须降价
 商家利润变薄 → 为了回血必须到抖音找新增量
@@ -314,7 +314,7 @@ After Taobao's flash sale attack on Meituan, the biggest beneficiary was Ctrip. 
 
 ---
 
-## ✨ **（2）用户因价格战产生“比价心智” → 抖音获流量**
+## **（2）用户因价格战产生“比价心智” → 抖音获流量**
 
 当美团和淘宝开始“互卷”价格：
 
@@ -326,7 +326,7 @@ After Taobao's flash sale attack on Meituan, the biggest beneficiary was Ctrip. 
 
 ---
 
-## ✨ **（3）抖音是流量之神，趁乱吃掉增量**
+## **（3）抖音是流量之神，趁乱吃掉增量**
 
 战争越乱：
 
@@ -342,7 +342,7 @@ After Taobao's flash sale attack on Meituan, the biggest beneficiary was Ctrip. 
 
 ---
 
-# 🔥 **一句话总结整段话**
+# **一句话总结整段话**
 
 当淘宝攻击美团时：
 
