@@ -53,7 +53,7 @@ Trip.com uses **three monetization mechanisms** in hotel bookings:
 
 ---
 
-# Accommodation Revenue Summary
+## Accommodation Revenue Summary
 
 Trip.com earns money mainly from **hotel commissions +广告+价差**。
 毛利和规模都很大，也是 8.047B 的来源。
