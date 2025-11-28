@@ -129,7 +129,7 @@ GDS 会给 OTA **返佣**（每张几美元）。
 
 ---
 
-# Transportation Revenue Summary
+## Transportation Revenue Summary
 
 Trip.com earns money through a combination of：
 
