@@ -6,3 +6,5 @@
 [AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](https://research.google/blog/autobnn-probabilistic-time-series-forecasting-with-compositional-bayesian-neural-networks/)
 
 [Computer-aided diagnosis for lung cancer screening](https://research.google/blog/computer-aided-diagnosis-for-lung-cancer-screening/)
+
+[HEAL: A framework for health equity assessment of machine learning performance](https://research.google/blog/heal-a-framework-for-health-equity-assessment-of-machine-learning-performance/) 
