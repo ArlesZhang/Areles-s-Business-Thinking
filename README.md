@@ -1,7 +1,7 @@
 # Areles-Business-Thinking
 
 > Remember:You will eventually die                                  
-> 像对待濒危物种那样珍视自己的每一天                                     
+> Will I output what if today is my last day ?                               
 > 专注力是仅次于生命健康的最宝贵的财富，利用好它，增强自己的能力                                                                                           
 
 专注 自律 社交 | 得救之道尽在其中                                 
