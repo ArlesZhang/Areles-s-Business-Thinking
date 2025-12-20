@@ -1,12 +1,14 @@
 # Areles-Business-Thinking
 
+As an engineer (or any other professional career), building a personal brand is more valuable than a standard CV. 
+
 > Remember:You will eventually die                                  
 > Will I output what if today is my last day ?                               
 > 专注力是仅次于生命健康的最宝贵的财富，利用好它，增强自己的能力                                                                                           
 
 专注 自律 社交 | 得救之道尽在其中                                 
 Focus. Self-discipline. Sociality. The path to redemption lies within.                    
-> 解决问题 | 创造价值 | 建立同盟                         
+> 解决问题 | 创造价值 | 寻找共同价值                         
 
 保持这种带着痛感的清醒，我的修道院墙壁终将刻满「**Memento Mori**」（记住你终将死亡）——而这恰恰会让你活得比谁都炽热。
 
