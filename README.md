@@ -5,7 +5,7 @@ As an engineer (or any other professional career), building a personal brand is 
 > Remember:You will eventually die                                  
 > Will I output what if today is my last day ?                               
 > 专注力是仅次于生命健康的最宝贵的财富，利用好它，增强自己的能力
-> 你的妥协会成为别人手中的权柄                                                                                      
+> 人生不是输在不够努力,而是输在不够稳定                                                                                  
 
 专注 自律 社交 | 得救之道尽在其中                                 
 Focus. Self-discipline. Sociality. The path to redemption lies within.                    
