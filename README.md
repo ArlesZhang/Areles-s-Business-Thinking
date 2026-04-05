@@ -2,7 +2,7 @@
 
 As an engineer (or any other professional career), building a personal brand is more valuable than a standard CV. 
                              
-> 专注力是仅次于生命健康的最宝贵的财富，利用好它，增强自己的能力
+> 专注力是仅次于生命健康的最宝贵的财富，利用好它，增强自己的能力                                         
 > 我人生的意义:激流勇进去努力获取事业上的成功,从帮助值得帮助的人中获得满足和快乐                              
 
 财富来自三件事：资源 认知 能力
