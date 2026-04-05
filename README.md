@@ -6,8 +6,6 @@ As an engineer (or any other professional career), building a personal brand is 
 > 2.我人生的意义:激流勇进去努力获取事业上的成功,从帮助值得帮助的人中获得满足和快乐                              
 
 财富来自三件事：资源 认知 能力
-- 学习提升的是能力。
-- 能力未必自动带来资源。
 - 资源和认知的提升，需要进入更高层级的环境。
 
 所以，正确的顺序是：                                             
